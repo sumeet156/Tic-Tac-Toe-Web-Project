@@ -12,6 +12,8 @@ An interactive **Tic-Tac-Toe Game** built using HTML, CSS, and JavaScript. This 
 ## Live Demo
 Access the live application here: [Tic-Tac-Toe](https://meowcodes-tic-tac-toe.netlify.app/)
 
+### UI View: [Tic-Tac-Toe-UI](assets/Tic_Tac_Toe.png) , [Winner_UI](assets/Winner.png) , [Tie_GameUI](assets/Tie_Game.png)
+
 ## Technologies Used 🛠️
 - **HTML5** for structuring the content.
 - **CSS3** for designing a visually appealing interface.
